@@ -1,0 +1,64 @@
+# IDE specific files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.launch
+*.swp
+
+# Compiled Files
+/target/
+/build/
+/classes/
+/*.jar
+/*.war
+/*.ear
+/*.class
+
+# Logs and backups
+*.log
+*.log.*
+*.logback
+*.log4j
+/log/
+/logs/
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Maven specific files
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+maven-metadata-local.xml
+maven-metadata-*.xml
+.maven/
+.target/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package Files
+*.nar
+*.har
+*.orig
+*.pyc
+*.dll
+*.so
+*.jnilib
+
+# Node Modules
+node_modules/
+/.apt_generated/
+/.apt_generated_tests/
